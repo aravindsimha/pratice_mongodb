@@ -38,4 +38,4 @@ collection.insert_one(data)
 
 
 """ WE CAN PUSH ALL THIS CODE INTO GITHUB AT A TIME BY SELECTING THE VSC AND IN THAT SELECT CREATE GIT REPOSITORY"""
-# AS WE download git download then we can use thiws repositry 
+# AS WE download git download then we can use this repository
